@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(175, 236, 236);
+    }
+    
+    h1 {
+        font-size: large;
+        font-family: fantasy;
+        color: darkblue;
+        padding: 30px;
+        border: 8px solid rgb(247, 163, 6);
+    }
+    
+    p {
+        border: 16px solid rgb(235, 8, 216);
+        padding: 60px;
+        margin: 50px;
+    }
+    
+    
+    
+    
+    a:link {
+        color: green;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited {
+        color: rgb(89, 7, 243);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+    
+    
+      
